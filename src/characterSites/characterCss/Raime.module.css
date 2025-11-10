@@ -1,0 +1,109 @@
+.backButton {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    color: #000000;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #222222;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .backButton:hover {
+    color: #882e05;
+  }
+  
+  .characterPage {
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  }
+  
+  .characterImage {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .characterImage img {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+  }
+  
+  .characterLore h2 {
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .characterLore h3 {
+    font-size: 22px;
+    color: #882e05;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .characterLore p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+  .characterLore ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  .characterLore ul li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .characterLore ul li:before {
+    content: "✔️ ";
+    color: #000000;
+  }
+  
+  .characterSong {
+    text-align: left;
+    margin: 20px 0;
+  }
+
+  .characterSong h3 {
+    font-size: 22px;
+    color: #882e05;
+    margin-bottom: 10px;
+  }
+
+  .characterSong audio {
+    width: 80%;
+    max-width: 400px;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+    justify-content: center;
+  }
+
+  .gallery img {
+    border-radius: 8px;
+    max-height: 300px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  }
+
+  .gallery img:hover {
+    transform: scale(1.02);
+    transition: transform 0.2s ease-in-out;
+  }
+
+  

@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.SongPageSong {
+text-align: left;
+margin: 20px 0;
+}
+
+.SongPageSong h3 {
+font-size: 22px;
+color: #e6e6e6;
+margin-bottom: 1px;
+}
+
+.SongPageSong p {
+    font-size: 22px;
+    color: #acacac;
+    margin-bottom: 15px;
+}
+
+.songpagecontainer a{
+  color: beige;
+}
+
+.SongPageSong audio {
+width: 80%;
+max-width: 400px;
+margin-bottom: 10px;
+}
+
+.songpagecontainer {
+    width: 100%;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}

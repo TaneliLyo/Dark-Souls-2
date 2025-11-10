@@ -1,0 +1,17 @@
+import Shan from './Shanalotte.mp3'
+import Aldia from './Aldia.mp3'
+import King from './Vendrick.mp3'
+import Pate from './Pate.mp3'
+import SirAlonne from './SirAlonne.mp3'
+import Firekeepers from './firekeepers.mp3'
+import Lucatiel from './Lucatiel.mp3'
+import Last from './LastGiant.mp3'
+import Glass from './Looking.mp3'
+import Pursuer from './Pursuer.mp3'
+import Velstadt from './Velstadt.mp3'
+import Benhart from './Benhart.mp3'
+import AAA from './AshandAegis.mp3'
+import AAAV from './VelstadtsSide.mp3'
+import AAAR from './RaimesSide.mp3'
+
+export { Shan, Aldia, King, Pate, SirAlonne, Firekeepers, Lucatiel, Last, Glass, Pursuer, Velstadt, Benhart, AAA, AAAV, AAAR };
