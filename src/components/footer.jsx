@@ -8,7 +8,8 @@ export default function Footer() {
                 <img src={Logo} alt="Logo" />
             </div>
             <div className='ftext'>
-                © 2025 Boireas. All rights reserved to logos, songs and other intellectual property.
+                <p><strong>All Dark Souls II images © FromSoftware / Bandai Namco. Used for informational/fan purposes only.</strong></p>
+                <p>© 2025 Boireas. All rights reserved to original content, text, and other intellectual property.</p>              
             </div>
         </footer>
     )

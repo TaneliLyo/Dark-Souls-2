@@ -29,11 +29,12 @@ function Body() {
 
             <h3>Theories and Speculations</h3>
             <ul>
-                <li><strong>The Eastern Warrior:</strong> Many believe Sir Alonne hails from a distant eastern land, likely inspired by ancient Japan. His graceful swordsmanship and katana mastery stand apart from all known styles in Drangleic, marking him as a foreigner of great renown and discipline.</li>
+                <li><strong>Noble Samurai-Warrior:</strong> Some fans theorize that Alonne embodies the archetype of an honorable samurai: devoted to his lord, but unwilling to overlook moral decay. His leaving at the peak of the Iron King's reign suggests he may have refused to serve a corrupted regime.</li>  
+                <li><strong>Unseen Redemption:</strong> By departing in search of unknown lands, Alonne might be on a quest for redemption or personal purpose beyond the Iron King's realm. He could be seeking a place where his ideals still hold value.</li>  
+                <li><strong>Seppuku as Honor:</strong> Sir Alonne has a special “seppuku” death animation if defeated without taking damage — some interpret this as him preserving his honor by choosing death on his own terms.</li>  
+                <li><strong>Memory vs Reality:</strong> Since the fight takes place in the “Memory of the Old Iron King,” some believe that this Alonne is a projection or echo — not the real Alonne, but a memory of their past relationship.</li>  
 
-                <li><strong>Honor Over Loyalty:</strong> His supposed decision to leave the Old Iron King is often seen as a reflection of his code—choosing honor and principle over service to a ruler corrupted by greed. In this view, Alonne represents a rare purity of spirit within the Dark Souls world.</li>
-
-                <li><strong>The Paradox of His Fate:</strong> It is said that Sir Alonne left the Iron Keep by his own will, but when the player enters the Memory of the Old Iron King, they encounter and slay him in the past. This mirrors the confirmed time alteration seen in the Giant Lord’s memory, where defeating him reshapes the past itself. If this holds true, then Sir Alonne may have never truly left at all; his death at the player’s hand becomes the actual end of his tale, rewriting history and turning his supposed departure into legend. His lingering spirit could be the echo of this paradox—caught between the honor of leaving and the tragedy of dying, bound forever to the blade and the cycle of time that defines the cursed world.</li>
+                <li><strong>The Paradox of His Fate:</strong> It is said that Sir Alonne left the Iron Keep by his own will, but when the player enters the Memory of the Old Iron King, they encounter and slay him in the past. This mirrors the confirmed time alteration seen in the Giant Lord's memory, where defeating him reshapes the past itself. If this holds true, then Sir Alonne may have never truly left at all; his death at the player's hand becomes the actual end of his tale, rewriting history and turning his supposed departure into legend. His lingering spirit could be the echo of this paradox—caught between the honor of leaving and the tragedy of dying, bound forever to the blade and the cycle of time that defines the cursed world.</li>
             </ul>
 
 
@@ -53,8 +54,9 @@ function Body() {
 
             <h3>Additional Information</h3>
             <p><strong>Location:</strong> Sir Alonne is found within the Memory of the Old Iron King, accessed through the Old Iron Keep via the Iron Passage in the Crown of the Old Iron King DLC.</p>
-            <p><strong>Dialogue:</strong> Sir Alonne remains entirely silent throughout the encounter. His story is told only through his environment, his combat style, and the lingering memories of those who served under him.</p>
-            <p><strong>Boss Fight:</strong> Sir Alonne is an optional boss known for his precision and elegance in battle. He wields a katana with deadly speed and punishes mistimed attacks. In a final act of dignity, if the player defeats him without taking damage, he performs seppuku—ending his own life in honor.</p>
+            <p><strong>Boss Fight Mechanics:</strong> He uses a fast katana with bleed, performs dashing slashes, and can charge a dark projectile. When his health drops to a certain point, his attacks become more aggressive.</p>  
+            <p><strong>Summons:</strong> Drifter Swordsman Aidel and Steel-willed Lorrie can be summoned for the fight.</p>  
+            <p><strong>Drop:</strong> Defeating him gives the Soul of Sir Alonne and pieces of his armor.</p>        
         </section>
      </div>   
     )

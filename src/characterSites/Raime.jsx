@@ -18,19 +18,18 @@ function Body() {
 
         <section className={styles.characterLore}>
             <h2>Raime, the Fume Knight</h2>
-            <p>The Fume Knight, Raime, was once considered a loyal knight alongside Velstadt, the Royal Aegis, as the left and right arms of King Vendrick. Their wills clashed, and after being defeated by Velstadt, Raime was branded a traitor and left Drangleic seeking strength. At Brume Tower he found power not from a king but from Nadalia, Bride of Ash, a Child of Dark, who infused him with dark energy and bound a fragment of her soul to his weapons. Choosing to remain with her, Raime embraced the darkness, and now resides at the bottom of Brume Tower, guarding Nadalia’s resting place and the Crown of the Iron King.</p>
-            <h3>Lore</h3>
-            <p>Raime, the Fume Knight, was once likely the commander of King Vendrick's military, his sword and armor closely resembling that of the royal soldiers. Many of these soldiers seem to have followed him into Brume Tower, their corpses found near a destroyed Ashen Idol. Known for his fondness of ravens—despite their grim symbolism—Raime may have inspired Captain Drummond, whose helmet bears the likeness of a dark bird and who likely served under him at the Great Fort.</p>
+            <p>Raime, better known as the Fume Knight, is a powerful and tragic figure in Drangleic. Once a trusted knight of King Vendrick, he became a “rebel” and finally took up residence in the haunted Brume Tower, where he embraces dark and smoky power in service of Nadalia, the Bride of Ash.</p>
 
-            <p>Raime's shield, discovered within the Flame Salamander pit, suggests he lost it during the defense of the Fort, perhaps against the Giants. It is possible that this defeat or realization led him to depart Drangleic, drawn toward Brume Tower by knowledge or memory of its power. There, he encountered Nadalia, Bride of Ash, a Child of Dark, and chose to embrace her black flame rather than destroy it.</p>
-
-            <p>Imbued with Nadalia's essence, Raime became the Fume Knight, his armor and greatsword infused with her dark power. Now he stands as the silent guardian of her remains and the Crown of the Old Iron King—his soot-streaked form a reflection of loyalty turned to burden, and of strength consumed by the shadow it sought to master.</p>
+            <h3>Lore</h3>  
+            <p>Raime was once one of Vendrick's most distinguished knights — known as the “left arm” of the king, standing alongside Velstadt. But conflict arose between Raime and Velstadt, and Raime was labeled a traitor. After his defeat, he wandered until he came to Brume Tower.</p>  
+            <p>At Brume Tower, Raime found Nadalia, a child of darkness, and instead of purging the black fog, he accepted it. He became her guardian and champion, and a fragment of her soul was said to be bound to his blade. In becoming the Fume Knight, Raime fused his own fate with hers, choosing a dark purpose over returning to his old life.</p>
 
             <h3>Theories and Speculations</h3>
-            <ul>
-                <li><strong>The Puppet Sentinel Theory:</strong> Some players argue that Raime isnt fighting of his own will—rather he is being manipulated or bound by Nadalia, Bride of Ash or the black fog at Brume Tower, acting as her guardian while his will is suppressed.</li>
-
-                <li><strong>The Two-Wills Conflict:</strong> A widely discussed theory suggests that Raime's dual-phase boss fight (fire phase and dark phase) represents two conflicting forces inside him—his original knightly honour, and the corruption/black fog he embraced. This internal battle serves as narrative symbolism rather than just a gameplay gimmick.</li>
+            <ul>  
+                <li><strong>Betrayal and Exile:</strong> Some theorize that Raime's “betrayal” wasn't just political — he may have truly believed that Vendrick and Velstadt were blind to danger (Nadalia or otherwise), and left to protect Drangleic in his own way.</li>  
+                <li><strong>Nadalia's Influence:</strong> By accepting Nadalia's power and presence, Raime may have been corrupted or enlightened (depending on your interpretation) — his second-phase fire/dark attacks could reflect her influence.</li>  
+                <li><strong>Memory of Velstadt:</strong> There's a gameplay/lore interaction: if you enter the fight while wearing Velstadt's Helm, Raime immediately goes into his second phase. Fans suggest this is a symbolic “flashback” or rage trigger related to his rivalry with Velstadt.</li>  
+                <li><strong>Left-Handed Duelist:</strong> Raime fights mainly with his left hand wielding a massive ultra greatsword, which is thematically tied to his status as the king's “left arm.”</li>  
             </ul>
 
 
@@ -49,10 +48,11 @@ function Body() {
             </div>
 
             <h3>Additional Information</h3>
-            <p><strong>Location:</strong> Raime, the Fume Knight, is encountered in the Fume Knight's arena within the Crown of the Old Iron King DLC. He serves as a hidden and optional boss, representing one of the toughest challenges for the player.</p>
-            <p><strong>Dialogue:</strong> Raime does not speak; his story is told through his imposing presence, armor, and the remnants of his battle-worn surroundings, conveying his unwavering duty and tragic devotion.</p>
-            <p><strong>Boss Fight:</strong> The fight against Raime is optional but extremely challenging. He wields a massive greatsword and shield, combining devastating attacks with high defense. The battle tests the player's skill, patience, and endurance, symbolizing the weight of his relentless loyalty and obsession.</p>
-        </section>
+            <p><strong>Location:</strong> Found at the bottom of Brume Tower, near the Throne-Floor bonfire.</p>  
+            <p><strong>Boss Fight Mechanics:</strong> Raime starts dual-wielding a Fume Sword and his Fume Ultra Greatsword. Once his health drops to a certain point, he buffs his Ultra Greatsword with fire and dark energy and gains powerful new attacks.</p>  
+            <p><strong>Summons:</strong> Steelheart Ellie and Carhillion of the Fold can be summoned for the battle.</p>  
+            <p><strong>Drop:</strong> Defeating him yields the Soul of the Fume Knight and the Soul of Nadalia, Bride of Ash.</p>        
+</section>
      </div>   
     )
 }

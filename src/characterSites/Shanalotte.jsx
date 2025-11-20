@@ -18,13 +18,14 @@ function Body() {
 
         <section className={styles.characterLore}>
             <h2>Shanalotte: The Emerald Herald</h2>
-            <p>The Emerald Herald, known as Shanalotte, is a pivotal character in *Dark Souls II*. She serves as the player's guide, assisting in leveling up and offering cryptic insights into the world's mysteries. Her presence is central to the player's journey through Drangleic.</p>
+            <p>Shanalotte, known as the Emerald Herald, is a key NPC in Dark Souls II who guides the player's journey. She helps the player level up and provides cryptic commentary on the curse, fate, and Drangleic's history.</p>
+
             <h3>Lore</h3>
-            <p>Shanalotte was created by a collaboration between dragons and humans, specifically by Aldia and possibly Vendrick. This union aimed to produce an entity capable of transcending the curse of undead, a being who could end the cycle of hollowing. However, Shanalotte was considered a "failure" in this regard, as she could not break the curse herself. Instead, she aids other undead in their quest to do so.</p>
+            <p>Her true name is Shanalotte, a name given to her by dragons. She claims she was “born of dragons, contrived by men,” implying a mixed heritage. Her creators include Aldia, and possibly King Vendrick, who sought to use her as a tool to break the Undead Curse.</p>
 
-            <p>Shanalotte refers to herself as a "dragon child born via man." This suggests she possesses both human and dragon lineage, potentially similar to Priscilla from the first *Dark Souls*. Her appearance is human, but she may conceal dragon-like features, such as scales or subtle horns, hidden beneath her attire.</p>
+            <p>Shanalotte's stated purpose is to guide the Undead: she draws cursed Undead to Drangleic in the hope that one of them will succeed in ending the curse.</p>
 
-            <p>Throughout the game, Shanalotte guides the player to seek the four Great Souls. Upon obtaining them, she directs the player to confront King Vendrick and ultimately Queen Nashandra. In the *Scholar of the First Sin* edition, Shanalotte reveals that Nashandra is a fragment of Manus, the primeval man, and urges the player to decide the world's fate.</p>
+            <p>Despite her role, she admits her creation failed in its ultimate goal: she was supposed to “break” the curse but did not come out as intended.</p>
 
             <h3>Notable Quotes</h3>
             <blockquote>
@@ -46,8 +47,13 @@ function Body() {
 
             <h3>Theories and Speculations</h3>
             <ul>
-                <li><strong>Artificial Firekeeper</strong>: Some theories suggest that Shanalotte is an artificial firekeeper, created to manipulate souls and assist in leveling up. This aligns with her role in the game, where she helps the player enhance their abilities.</li>
-                <li><strong>Aldia's Experiment</strong>: It's speculated that Aldia, obsessed with transcending the curse of undead, created Shanalotte as part of his experiments. Her existence may be a result of his attempts to merge dragon and human elements to overcome the limitations of mortality.</li>
+                <li><strong>Artificial Dragon-Human Hybrid:</strong> Because of her “dragon child” line and claims of being contrived by men, many fans believe she is a half-dragon experiment by Aldia to combine draconic immortality with humanity.</li>
+
+                <li><strong>Failed Cure for the Curse:</strong> Her failure to break the Undead Curse suggests that her creators (Aldia and possibly Vendrick) underestimated the complexity of the defect — she guides the player instead, hoping they'll succeed where she could not.</li>
+
+                <li><strong>Last Firekeeper or Guardian:</strong> Some interpret her role as more than a guide — she is seen as a kind of “artificial firekeeper” created for a higher purpose, rather than a traditional, natural firekeeper.</li>
+
+                <li><strong>Existence as a Projection:</strong> There are theories that the Shanalotte the player interacts with may be a projection or clone — she mentions being “led by” an “other self,” pointing to possible metaphysical duplicity.</li>
             </ul>
 
             <div className={styles.characterSong}>
@@ -65,9 +71,9 @@ function Body() {
             </div>
 
             <h3>Additional Information</h3>
-            <p><strong>Location:</strong> Shanalotte resides in Majula, the game's central hub. She appears at various points throughout the game, providing guidance and assistance.</p>
-            <p><strong>Dialogue:</strong> Her speech is often cryptic, filled with references to fate, dragons, and the curse of undead. She speaks of her creators and her purpose, offering the player insights into the world's mysteries.</p>
-            <p><strong>Final Encounter:</strong> In the endgame, Shanalotte confronts the player, revealing her true nature and purpose. Depending on the player's choices, she may assist in linking the fire or offer an alternative path.</p>           
+            <p><strong>Location:</strong> She is first encountered in Majula, near the cliff overlooking the ocean.</p>  
+            <p><strong>Function:</strong> Acts as the player's leveling NPC (replacing bonfires), and also gives the Aged Feather.</p>  
+            <p><strong>Endgame Role:</strong> Near the end, she reveals her origins more fully — she was created by Aldia (and possibly others) in a failed effort to end the curse, and she warns the player about Nashandra and choice regarding the throne.</p>
         </section>
      </div>   
     )

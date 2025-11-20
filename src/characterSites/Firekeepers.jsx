@@ -18,13 +18,16 @@ function Body() {
 
         <section className={styles.characterLore}>
             <h2>The Three Fire Keepers</h2>
-            <p>The Three Fire Keepers at Things Betwix are mysterious women who tend to the embers scattered across the cursed land. Each keeper carries the weight of guiding lost Undead, offering warmth, solace, and the promise of rebirth at the bonfire. Though they speak little of themselves, their presence provides comfort and a semblance of order in a world wracked by decay. United yet distinct, the keepers symbolize the enduring cycle of flame and dark, maintaining the fragile balance between hope and despair for those who pass through their watchful gaze.</p>
+            <p>In Dark Souls II, the “Three Fire Keepers” are elderly sisters named **Strowen**, **Morrel**, and **Griant**. They live in a small hut in the liminal area called Things Betwixt, where they no longer actively tend a bonfire, but offer guidance to Undead travelers who arrive.</p>
+
             <h3>Lore</h3>
-            <p>The Three Fire Keepers at Things Betwix are enigmatic caretakers of the scattered embers that sustain the cursed land. Each keeper tends to a separate bonfire, offering warmth, guidance, and the promise of rebirth to wandering Undead. Though their words are few, their actions carry weight, symbolizing the enduring cycle of flame and dark that defines Drangleic.</p>
+            <p>The three sisters are former Fire Keepers who have retired to Things Betwixt for their own protection. Their caretaker is a housemaid named Milibeth, who tends to them and their home. Milibeth comes from a long line of caretakers for these keepers.</p>
 
-            <p>The keepers appear united yet distinct, each with her own mannerisms and subtle personality traits that hint at a deeper history. They observe travelers with quiet vigilance, rewarding perseverance and punishing recklessness, maintaining the fragile balance between hope and despair. Their presence serves as both a comfort and a reminder: even in a world consumed by decay, the light of the flame endures, fragile but unwavering.</p>
+            <p>Strowen is portrayed as the cynical leader of the group. Morrel is quieter and more reserved, while Griant rarely speaks unless directly prompted.</p>
 
-            <p>While little is known about their origins or true intentions, the Three Fire Keepers exemplify the cost of devotion. They are guardians not of wealth or power, but of the cycle itself, embodying the solemn duty and quiet resilience required to sustain the cursed world, one ember at a time.</p>
+            <p>These keepers play a special mechanical role: Strowen allows the player to reallocate their stat points (respec) if they give her a Soul Vessel.</p>
+
+            <p>The sisters also mention that there used to be a fourth Fire Keeper, although she is no longer present.</p>
 
             <h3>Notable Quotes</h3>
             <blockquote>
@@ -46,15 +49,9 @@ function Body() {
 
             <h3>Theories and Speculations</h3>
             <ul>
-                <li><strong>Retired Fire Keepers:</strong> Many players theorize that the three Fire Keepers at Things Betwixt are retired, no longer actively tending major bonfires. Their presence hints at a fading tradition or broken order.</li>
-
-                <li><strong>Last Vestiges of the Order:</strong> The keepers may be the final guardians of the Flame in that region, representing the collapse of the Fire Keeper system in Drangleic.</li>
-
-                <li><strong>Missing Bonfires, Missing Keepers:</strong> Some suggest that many bonfires lack an identified Fire Keeper because the keepers are dying out or being phased out. This implies a decline of the Flame's guardians.</li>
-
-                <li><strong>Agents of the Cycle:</strong> The keepers may not only tend flames but also consciously participate in the cycle of Fire → Link → Rekindle → Fade, monitoring the entry of Undead into the curse.</li>
-
-                <li><strong>Spatial-Temporal Anchors:</strong> Some players speculate that the keepers exist partially outside normal time, acting as metaphysical guardians of the flame and thresholds for the Undead.</li>
+                <li><strong>The Fourth Sister Theory:</strong> Some fans speculate that the missing fourth sister might be the woman seen in the *Things Betwixt* intro cutscene, or perhaps another character like the Emerald Herald.</li>
+                <li><strong>Retired to Avoid Exploitation:</strong> Because Fire Keepers are often targets for pyromancy and hexing materials, it's theorized that these three retired to Things Betwixt to avoid danger.</li>
+                <li><strong>Metaphorical Guardians:</strong> Their presence in Things Betwixt — a place outside the normal world — may symbolize their role as guardians of a transitional space, not just of fire, but of memory and identity.</li>
             </ul>
 
 
@@ -74,9 +71,9 @@ function Body() {
             </div>
 
             <h3>Additional Information</h3>
-            <p><strong>Location:</strong> The Three Fire Keepers at Things Betwix are stationary at their respective bonfires in the tutorial-like area of Things Betwix. They do not move from their posts, but their presence is crucial for introducing players to the concept of flame, rest, and rebirth.</p>
-            <p><strong>Dialogue:</strong> The keepers speak sparingly, offering short, cryptic guidance about tending the flame, resting at bonfires, and the balance of Light and Dark. Their words are calm and solemn, reflecting centuries of devotion to their duties.</p>
-            <p><strong>Role:</strong> While they do not accompany the player like a summon, the Three Fire Keepers serve as the first lesson in the cycle of flame and death. They symbolize vigilance, guidance, and the moral weight of maintaining the fire in a cursed world.</p>
+            <p><strong>Location:</strong> Things Betwixt, in their hut.</p>  
+            <p><strong>Function:</strong> Provide lore, reallocate stats (via Strowen), and give Human Effigies if the player has the King's Ring.</p>  
+            <p><strong>Caretaker:</strong> Milibeth, who tends to them and mentions their past as real Fire Keepers.</p>        
         </section>
      </div>   
     )

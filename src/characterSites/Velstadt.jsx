@@ -19,21 +19,17 @@ function Body() {
 
         <section className={styles.characterLore}>
             <h2>Velstadt the Royal Aegis</h2>
-            <p>Velstadt, the Royal Aegis, was King Vendrick's loyal protector and a fearsome knight of Drangleic. Bound by unwavering duty, he guarded the king and the Undead Crypt, ensuring that no one could disturb Vendrick's hollowed slumber. Even after death, Velstadt's loyalty endured, making him a relentless sentinel and a tragic embodiment of devotion in a world cursed by the undead.</p>
-            <h3>Lore</h3>
-            <p>Velstadt, the Royal Aegis, was a knight of unparalleled loyalty who dedicated his life to protecting King Vendrick and the Undead Crypt. Known for his immense strength and unwavering discipline, Velstadt served as the king's shield, ensuring that no intruder could reach the hollowed monarch.</p>
+            <p>Velstadt, known as the Royal Aegis, is a loyal and powerful knight who guards King Vendrick in the Undead Crypt. He is devoted to his king and remains at his post even after Vendrick's retreat.</p>
 
-            <p>Even after Vendrick withdrew into the Undead Crypt, Velstadt remained vigilant, guarding the king's resting place with unrelenting resolve. His presence was both a test and a barrier: only those strong and determined enough could pass him to face the hollowed king. Velstadt's commitment to his oath transformed him into a tragic figure, a warrior bound by duty long past the limits of life and reason.</p>
-
-            <p>His enduring vigilance and formidable power have made him a symbol of loyalty and sacrifice in Drangleic. While he acts as an obstacle to the player, his actions stem from devotion rather than malice, illustrating the heavy cost of fidelity in a world consumed by the curse.</p>
+            <h3>Lore</h3>  
+            <p>Velstadt came from a distant land and was drawn into Drangleic. He became one of King Vendrick's most trusted knights — so devoted that he followed Vendrick even when the king withdrew into the Undead Crypt. In life and death, Velstadt stayed by his side, becoming a shadow of his former self.</p>  
+            <p>Originally, his armor and hammer were imbued with miraculous power, but over time, exposure to the darkness of the Crypt corrupted both him and his gear. Velstadt is not just a guard — he gave himself entirely to the king, staying forever as his protector.</p>
 
             <h3>Theories and Speculations</h3>
             <ul>
-                <li><strong>The Loyal Sentinel Theory:</strong> Velstadt embodies the ultimate loyal servant archetype, staying behind to guard Vendrick out of devotion rather than duty. His tragic perseverance reflects the cost of unwavering loyalty.</li>
-
-                <li><strong>Test of Worthiness:</strong> Velstadt's role may be to test the player, ensuring that only those strong enough to survive can approach the hollow king.</li>
-
-                <li><strong>Symbol of the Undead Crypt's Decay:</strong> Velstadt's eternal stand mirrors the stagnation and decay of Drangleic, with his loyalty highlighting a world where order persists even as the king and kingdom crumble.</li>
+                <li><strong>Forgotten Origins:</strong> Some believe Velstadt truly forgot why he came to Drangleic, as his soul description suggests he was “lured” here from a faraway place but cannot remember the purpose.</li>  
+                <li><strong>Cleric Knight:</strong> His armor's description and history hint that Velstadt was once a clerical knight, possibly aligned with a tradition of miracles, which makes his corruption by dark especially tragic.</li>  
+                <li><strong>Undying Loyalty:</strong> His eternal watch over Vendrick's tomb could be seen as a symbol of unwavering fidelity — he guards not out of duty alone, but because he gave himself fully to the king.</li>  
             </ul>
 
 
@@ -61,9 +57,9 @@ function Body() {
             </div>
 
             <h3>Additional Information</h3>
-            <p><strong>Location:</strong> Velstadt is encountered in the Undead Crypt, acting as the main guardian before the player can reach King Vendrick.</p>
-            <p><strong>Dialogue:</strong> Velstadt does not speak, but his imposing presence and unwavering stance communicate his absolute loyalty and the gravity of his duty.</p>
-            <p><strong>Boss Fight:</strong> Velstadt is a mandatory boss to face before accessing Vendrick. He is extremely powerful, wielding a massive hammer and demonstrating relentless defense and offense, representing the ultimate test of strength and perseverance for the player.</p>
+            <p><strong>Location:</strong> Undead Crypt, guarding the entrance to Vendrick's area.</p>  
+            <p><strong>Boss Fight Mechanics:</strong> Velstadt fights with a large hammer. Once his health drops to about half, he kneels and begins channeling dark energy, gaining a powerful dark magic ranged attack and greatly increasing his resilience.</p>  
+            <p><strong>Drop:</strong> Defeating him gives you the Soul of Velstadt and the Royal Soldier's Ring +2.</p>        
         </section>
      </div>   
     )

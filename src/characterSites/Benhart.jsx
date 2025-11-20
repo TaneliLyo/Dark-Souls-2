@@ -17,14 +17,15 @@ function Body() {
         </div>
 
         <section className={styles.characterLore}>
-            <h2>Benhart of Jugo</h2>
-            <p>Benhart of Jugo is a proud and steadfast knight who claims descent from a long line of noble warriors. Wielding his distinctive blue moon greatsword, he journeys across Drangleic in search of true heroism and purpose. Though boastful of his strength and ancestry, his actions reveal a kind and loyal heart beneath the bravado. Ever eager to aid the player, Benhart stands as a symbol of honest courage in a world consumed by decay, his unwavering spirit shining even as the curse takes its toll.</p>
-            <h3>Lore</h3>
-            <p>Benhart of Jugo hails from the distant land of Jugo, a place known for its proud warriors and unyielding sense of honor. Carrying his trademark blue moon greatsword—a weapon he claims to have inherited from his ancestors—Benhart travels Drangleic in search of great deeds to prove his strength and worth. Though he often boasts of his lineage and power, his words carry a tone of sincerity rather than arrogance, reflecting a man clinging to purpose in a fading world.</p>
+        <h2>Benhart of Jugo</h2>  
+            <p>Benhart of Jugo is a proud and honorable warrior from the distant land of Jugo. He claims his family has wielded the Bluemoon Greatsword for generations, and he travels Drangleic to perfect his skill and unlock the hidden potential of his heirloom. Though confident in his abilities, Benhart's strength comes with a sincere and loyal heart — he will aid the player in battle, honoring his word and seeking true heroism.</p>
 
-            <p>Throughout his journey, Benhart aids the player multiple times, offering his sword in several key battles. His loyalty and courage never waver, even when the odds are dire. Yet his confidence may stem from illusion—his sword, dull and seemingly ordinary, could symbolize the fading glory of a knight chasing legends that no longer exist. This duality paints Benhart as both a comic and tragic figure, a man defined not by his victories but by his steadfast belief in what it means to be a hero.</p>
+            <h3>Lore</h3>  
+            <p>Benhart hails from Jugo, a far-off land that he describes as filled with honorable fighters. His greatsword, the Bluemoon Greatsword, is a family heirloom, and he believes it conceals a power yet to be uncovered. He journeyed to Drangleic not just for tests of strength, but to prove his worth and perhaps restore his family's legacy. However, it is confirmed to be a fake, according to a smith (Maughlin).</p>
 
-            <p>Should the player summon him often and survive together through trials, Benhart meets his end in dignity, passing on his sword as a final gesture of trust and respect. Whether he was truly the great hero he believed himself to be, or simply a man lost in a cursed age, his story embodies the bittersweet valor that defines the fading light of Drangleic.</p>
+            <p>Throughout his travels in Drangleic, Benhart meets the player several times: outside Majula's Shaded Woods, in Drangleic Castle by the Central Castle bonfire, in the Forest of Fallen Giants, and finally in the Memory of Orro. He can be summoned for boss fights (Prowling Magus & Congregation; Looking Glass Knight; Giant Lord; Nashandra; Elana). If he survives three such fights, he rewards the player with his gear: Bluemoon Greatsword, armor set, and shield.</p>
+
+            <p>Benhart's armor features a stag crest similar to Creighton of Mirrah's, implying a possible shared history or bloodline. His quest is bittersweet — he is driven by the hope of greatness, but the reality may be that he is chasing a legacy built on illusion.</p>
 
             <h3>Notable Quotes</h3>
             <blockquote>
@@ -48,12 +49,11 @@ function Body() {
 
 
             <h3>Theories and Speculations</h3>
-            <ul>
-                <li><strong>The Illusion of Heroism:</strong> Some believe Benhart's confidence in his strength and his blue moon greatsword is based on falsehood. The weapon appears to be a mundane blade, suggesting that his legendary lineage may be nothing more than a tale he tells himself to maintain purpose in a dying world.</li>
-
-                <li><strong>Symbol of Faded Glory:</strong> Benhart's unwavering faith in his weapon and heritage could symbolize the decay of old ideals in Drangleic. Like many remnants of past ages, he clings to a fading legend, representing the persistence of hope even when all proof of greatness has vanished.</li>
-
-                <li><strong>The True Knight:</strong> Despite possible delusion, Benhart's courage and loyalty are genuine. His actions—not his weapon or words—define his heroism. This has led some to interpret him as one of the few truly honorable figures left in the cursed age, a man whose heart remains pure even as the world crumbles around him.</li>
+            <ul>  
+                <li><strong>The Hidden Power Theory:</strong> Benhart truly believes his Bluemoon Greatsword has a hidden magical power, but many speculate that he is wrong — the real powerful sword might actually be the Moonlight Greatsword.</li>  
+                <li><strong>Fallen Noble Bloodline:</strong> His armor's stag crest matches Creighton's, leading to the theory that Benhart comes from a once-noble but now fallen lineage, perhaps tied to Mirrah.</li>  
+                <li><strong>Quest for Redemption:</strong> Benhart may not just be fighting for glory — he is trying to redeem his family's honor, proving his worth through his deeds.</li>  
+                <li><strong>Memory Realm Connection:</strong> Because he ends up in the Memory of Orro and interacts with its history, some fans think his journey is about being trapped between his legacy and the memory of what once was.</li>  
             </ul>
 
 

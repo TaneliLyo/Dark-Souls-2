@@ -18,13 +18,12 @@ function Body() {
 
         <section className={styles.characterLore}>
             <h2>Mild-Mannered Pate</h2>
-            <p>Mild-Mannered Pate is a seemingly polite adventurer who roams Drangleic in search of treasure and opportunity. With his calm demeanor and courteous speech, he appears trustworthy at first glance, but those who cross his path soon learn to question his intentions. Known for leading others into traps under the guise of helpful advice, Pate embodies the deceptive nature of survival in a crumbling world. Whether he is a charming rogue or a subtle villain remains uncertain, as his true motives are forever shrouded behind a disarming smile.</p>
-            <h3>Lore</h3>
-            <p>Mild-Mannered Pate is a wandering adventurer with a calm voice and a courteous manner, traits that conceal his true cunning. He travels Drangleic in search of treasure and opportunity, often presenting himself as a friendly guide to unsuspecting explorers. Pate claims to have a keen sense for traps and dangers, yet it is unclear whether he warns others out of goodwill—or to lure them into danger for his own amusement. His silver tongue and polite demeanor make him one of the most enigmatic figures in the cursed land.</p>
+            <p>Pate is a traveling treasure hunter in Drangleic, known for his polite demeanor and “friendly” advice — but he's not necessarily as innocent as he seems. He appears helpful, but there’s a lot of ambiguity around his motives.</p>
 
-            <p>Throughout the player's encounters with him, Pate offers cryptic advice and directions that often lead to peril. He insists that such outcomes are mere misfortune, but his reputation as a trickster spreads quickly. His rivalry with Creighton the Wanderer further deepens his mystery; each accuses the other of betrayal and murder, forcing the player to decide who, if anyone, is truly trustworthy. This dynamic paints Pate as a master manipulator or a misunderstood survivor—depending on how one interprets his charm.</p>
-
-            <p>In the end, Pate's fate is as uncertain as his character. Whether he perishes by Creighton's hand, vanishes into the ruins, or continues his deceitful wandering, he remains a symbol of Drangleic's moral decay—where even kindness may hide a knife. Mild-Mannered Pate's legacy is that of a smiling liar in a world where honesty offers no reward, and survival demands guile as much as strength.</p>
+            <h3>Lore</h3>  
+            <p>You first meet Pate in the Forest of Fallen Giants, where he warns you about bandits and traps as part of his “treasure hunt”.</p>  
+            <p>He can be summoned for the fight against The Last Giant; if he survives, he rewards you later. Over the course of the game, you can encounter him in Earthen Peak and in Brightstone Cove Tseldora.</p>  
+            <p>Pate has a long-running rivalry with **Creighton the Wanderer**: Creighton accuses Pate of being manipulative and murderous, while Pate claims Creighton set a trap for him.  Depending on what you do, you may choose a side in their conflict.</p>  
 
             <h3>Notable Quotes</h3>
             <blockquote>
@@ -45,12 +44,10 @@ function Body() {
 
 
             <h3>Theories and Speculations</h3>
-            <ul>
-                <li><strong>The Untrustworthy Adventurer:</strong> Many players suspect that Pate is not as friendly as he seems. His calm demeanor and constant warnings about traps may be a ploy to lure adventurers into danger, allowing him to claim their treasures afterward.</li>
-
-                <li><strong>The Rivalry with Creighton:</strong> The long-standing feud between Pate and Creighton raises questions about who the true villain is. Some believe Pate betrayed Creighton and stole his possessions, while others think Creighton is the madman twisting the tale to his favor.</li>
-
-                <li><strong>Symbol of Deception and Survival:</strong> Pate's character embodies the subtle deceit that permeates Drangleic. Whether conman or cautious survivor, he represents the lengths one must go to endure in a cursed world—where trust is a luxury few can afford.</li>
+            <ul>  
+                <li><strong>The Patches Analogue:</strong> Many fans believe Pate fills the same “trickster treasure hunter” role in DS2 that **Patches** does in other Souls-games — luring players into danger under the guise of helpfulness.</li>  
+                <li><strong>Master Manipulator:</strong> Despite his mild manners, Pate is theorized to intentionally lead others into traps so he can profit from their death or misery.</li>  
+                <li><strong>Rivalry with Creighton:</strong> The conflict with Creighton may be more than a petty feud — some speculate both of them are playing a dangerous game to betray or outsmart each other, with the player caught in the middle.</li>  
             </ul>
 
 
@@ -70,9 +67,9 @@ function Body() {
             </div>
 
             <h3>Additional Information</h3>
-            <p><strong>Location:</strong> Mild-Mannered Pate can first be found in the Forest of Fallen Giants, warning the player about a nearby trap. He later appears in the Earthen Peak and Brightstone Cove Tseldora, often in suspicious circumstances that suggest hidden motives.</p>
-            <p><strong>Dialogue:</strong> Pate speaks politely and with an air of calm confidence, always maintaining a friendly tone regardless of the situation. His conversations are filled with subtle manipulation and double meanings, leaving players unsure whether to trust or fear him.</p>
-            <p><strong>Questline:</strong> Pate's story intertwines with that of Creighton the Wanderer. Depending on the player's actions, they can uncover a violent confrontation between the two. The player must choose whom to assist—revealing either Pate as a cunning betrayer or Creighton as a vengeful madman. The truth, as with much in Drangleic, remains uncertain.</p>
+            <p><strong>Location(s):</strong> Forest of Fallen Giants; Earthen Peak; Brightstone Cove Tseldora.</p>  
+            <p><strong>Quest / Rewards:</strong> After exhausting his dialogue in the Forest of Fallen Giants, he gives the White Sign Soapstone. If he survives the Last Giant fight, he later gives Pate's Spear, his armor set, and the Ring of Thorns.</p>  
+            <p><strong>Personality:</strong> Polite and cautious, but possibly deceitful — he warns of danger, yet seems aware of traps the player could fall into.</p>        
         </section>
      </div>   
     )
