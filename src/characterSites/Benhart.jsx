@@ -1,5 +1,5 @@
 import styles from './characterCss/Benhart.module.css'
-import song from './characterAssets/benhart.mp3'
+import song from './characterAssets/Benhart.mp3'
 import B1 from './characterAssets/benhart.jpg'
 import B2 from './characterAssets/benhart1.jpg'
 import B3 from './characterAssets/benhart2.jpg'
