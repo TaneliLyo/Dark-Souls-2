@@ -1,4 +1,4 @@
-import styles from './characterCss/Velstadt.module.css'
+import styles from './characterCss/velstadt.module.css'
 import song from './characterAssets/Velstadt.mp3'
 import V1 from './characterAssets/Velstadt.jpg'
 import V2 from './characterAssets/Velstadt1.jpg'
